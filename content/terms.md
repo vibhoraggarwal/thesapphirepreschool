@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-date: 2023-12-01
+date: 2025-09-09
 share: false
 ---
 
