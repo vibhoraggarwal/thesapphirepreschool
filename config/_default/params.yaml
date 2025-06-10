@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Get Admission"
-      url: "/blog/admissions-open/"
+      url: "blog/admissions-open/"
     show_search: true
     show_theme_chooser: true
 

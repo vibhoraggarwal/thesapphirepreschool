@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Admissions
-    url: /blog/admissions-open/
+    url: blog/admissions-open/
     weight: 20
   - name: Blog
     url: blog/

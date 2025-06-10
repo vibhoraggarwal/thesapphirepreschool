@@ -14,7 +14,7 @@ sections:
       text: A pre school
       primary_action:
         text: Get Admission
-        url: /blog/admissions-open/
+        url: blog/admissions-open/
         icon: rocket-launch
       secondary_action:
         text: Contact
@@ -85,7 +85,7 @@ sections:
           image: sketching.jpg
           button:
             text: Get Admission
-            url: /blog/admissions-open/
+            url: blog/admissions-open/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -95,7 +95,7 @@ sections:
       text: As easy as 1, 2, 3!
       button:
         text: Get Admission
-        url: /blog/admissions-open/
+        url: blog/admissions-open/
     design:
       card:
         # Card background color (CSS class)
