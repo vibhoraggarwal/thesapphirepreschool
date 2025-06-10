@@ -23,7 +23,7 @@ sections:
         text: "Announcing the release of website."
         link:
           text: "Read more"
-          url: "/blog/website-release/"
+          url: "blog/website-release/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
